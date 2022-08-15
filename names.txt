@@ -7,6 +7,7 @@ Mamodu Joshua
 Carmen Amba
 Imonikosaye Omafovbe
 Success Chikezie
+Ayoola Paul
 Gideon Anyalewechi
 Oluwaseun Abiola
 Onu Onyedikachi
@@ -49,6 +50,7 @@ Ukachi Kelechi Vivian
 Oluwakunmi Obaditan
 Clinton Mekwunye
 Oyindamola Kushimo
+>>>>>>> bee1158209d99e6246fc7874c1bbeab28e516dfa
 Okoro Gift
 Emmanuel kabari
 uwaoma cyrus
@@ -101,5 +103,10 @@ Patrick Aziken
 Umeh Cassandra
 Medina Folashade Adeniran
 Kingsley Umujeyan
+<<<<<<< HEAD
+Susan Bamgbade 
+>>>>>>> a7cf95b56f73c01a7c7a2f14c26a6565bb8287f1
+=======
 Susan Bamgbade
 Prince Chimaobi
+>>>>>>> bee1158209d99e6246fc7874c1bbeab28e516dfa
